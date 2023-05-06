@@ -2,8 +2,3 @@ Kareem Ibrahem
 
 Changed to featureX
 
-<<<<<<< HEAD
-
-=======
->>>>>>> featurey
-Changed to featureY
